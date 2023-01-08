@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.card-container {
+  background-color: #07080c;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+}
+.image {
+  width: 100px;
+  height: 100px;
+}
+.para1 {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+}
+.counter-value {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+}
+.para2 {
+  font-family: 'Roboto';
+  color: #94a3b8;
+}
+.button1 {
+  color: #94a3b8;
+  border-radius: 5px;
+  background-color: #0b69ff;
+  height: 30px;
+}
+.button2 {
+  color: #94a3b8;
+  border-radius: 5px;
+  height: 30px;
+}
+.button-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
